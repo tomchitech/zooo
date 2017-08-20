@@ -10,6 +10,10 @@
 {"Name":"BeinSportHD 8 (arabic)","url":"http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8"},
 {"Name":"BeinSportHD 9 (arabic)","url":"http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8"},
 {"Name":"BeinSportHD 10 (arabic)","url":"http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8"},
-{"Name":"Real Madrid TV","url":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"}
-{"Name":"MBC Pro Sports 1 HD","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/5113.ts"}
+{"Name":"AD SPORTS 1 HD","url":"https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8"},
+{"Name":"AD SPORTS 1 SD","url":"https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8"},
+{"Name":"AD SPORTS 2 HD","url":"https://adtv.ercdn.net/adsport1/adsport2_720p.m3u8"},
+{"Name":"AD SPORTS 2 SD","url":"https://adtv.ercdn.net/adsport1/adsport2_480p.m3u8"},
+{"Name":"Real Madrid TV","url":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"},
+{"Name":"MBC Pro Sports 1 HD","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/5113.ts"},
 ]}
