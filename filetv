@@ -1,5 +1,6 @@
 {"streaming":[{"status":"yes"}],
 "channels":[
+{"Name":"BeinSportHD News (arabic)","url":"http://tv.primatv.club:8899/live/prima10simo2/freetv2/756.m3u8"},
 {"Name":"BeinSportHD 1 (arabic)","url":"http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8"},
 {"Name":"BeinSportHD 2 (arabic)","url":"http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8"},
 {"Name":"BeinSportHD 3 (arabic)","url":"http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8"},
@@ -22,9 +23,22 @@
 {"Name":"MBC PRO SPORT 2","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1875.m3u8"},
 {"Name":"MBC PRO SPORT 3","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1876.m3u8"},
 {"Name":"MBC PRO SPORT 4","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/5202.m3u8"},
+{"Name":"Nile sport","url":"http://we-you-iptv.tv:8000/live/local1/123456/548.m3u8"},
+{"Name":"DMC Sports","url":"http://we-you-iptv.tv:8000/live/local1/123456/519.m3u8"},
+{"Name":"Arriadia Maroc","url":"http://tv.primatv.club:8899/live/prima10simo2/freetv2/635.m3u8"},
+{"Name":"Arriadia Maroc","url":"http://tv.primatv.club:8899/live/prima10simo2/freetv2/635.m3u8"},
+{"Name":"WWE HD (USA)","url":"http://magportal.ddns.net:25461/live/15pUsZKUIw/4boblpukUd/108.m3u8"},
+{"Name":"Real Madrid TV","url":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"},
 {"Name":"FOX SPORT 1","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1504.m3u8"},
 {"Name":"FOX SPORT 3","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1493.m3u8"},
 {"Name":"FOX SPORT 4","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1492.m3u8"},
 {"Name":"FOX SPORT 5","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1497.m3u8"},
-{"Name":"Real Madrid TV","url":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"}
+{"Name":"Super Sport 1","url":"http://81.7.13.162/hls/ss1/index.m3u8"},
+{"Name":"Super Sport 3","url":"http://81.7.13.162/hls/ss3/index.m3u8"},
+{"Name":"Super Sport 4","url":"http://81.7.13.162/hls/ss4/index.m3u8"},
+{"Name":"Sports Tonight","url":"rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001"},
+{"Name":"SportsTV3","url":"rtmp://stream.sportstv.com.tr/sportstv/SportsTV3"},
+{"Name":"BFM Sport","url":"http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8"},
+{"Name":"100 Live Sport","url":"mms://100automoto.tv/100livesport"},
+{"Name":"Luna Sport","url":"http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8"}
 ]}
