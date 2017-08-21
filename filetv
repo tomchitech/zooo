@@ -14,7 +14,7 @@
 {"Name":"AD SPORTS 1 SD","url":"https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8"},
 {"Name":"AD SPORTS 2 HD","url":"https://adtv.ercdn.net/adsport1/adsport2_720p.m3u8"},
 {"Name":"AD SPORTS 2 SD","url":"https://adtv.ercdn.net/adsport1/adsport2_480p.m3u8"},
-{"Name":"AD","url":"http://2.248.180.176:1964/live/HQ/ARABIC/10.ts"},
+{"Name":"AD1","url":"http://2.248.180.176:1964/live/HQ/ARABIC/10.ts"},
 {"Name":"Real Madrid TV","url":"http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8"},
 {"Name":"MBC Pro Sports 1 HD","url":"http://2.248.180.176:1964/live/HQ/ARABIC/758.ts"}
 ]}
