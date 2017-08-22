@@ -39,7 +39,6 @@
 {"Name":"ESPN","url":"http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"},
 {"Name":"ESPN 2","url":"http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"},
 {"Name":"ESPN 3","url":"http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8"},
-{"Name":"xxxx1","url":"http://46.245.179.198:2008"},
 {"Name":"ClaroSports","url":"http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8?"},
 {"Name":"BFM Sport","url":"http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8"},
 {"Name":"Luna Sport","url":"http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8"}
