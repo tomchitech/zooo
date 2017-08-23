@@ -1,6 +1,6 @@
 {"streaming":[{"status":"yes"}],
 "channels":[
-{"Name":"1المباريات المهمة","url":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1"},
+{"Name":"1dddd المهمة","url":"http://www.elahmad.com/tv/embed.php?id=bein_1"},
 {"Name":"2","url":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2"},
 {"Name":"3","url":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3"},
 {"Name":"BeinSportHD 4 (bitis)","url":"http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4"},
