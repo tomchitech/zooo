@@ -7,6 +7,8 @@
 {"Name":"AD SPORTS 1 SD","url":"https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8"},
 {"Name":"AD SPORTS 2 HD","url":"https://adtv.ercdn.net/adsport1/adsport2_720p.m3u8"},
 {"Name":"AD SPORTS 2 SD","url":"https://adtv.ercdn.net/adsport1/adsport2_480p.m3u8"},
+{"Name":"Aarriadia Maroc","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/2051.m3u8"},
+{"Name":"Alarabiya","url":"http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa"},
 {"Name":"AD SPORTS 4 SD","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/5471.m3u8"},
 {"Name":"MBC PRO SPORT 1","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1638.m3u8"},
 {"Name":"MBC PRO SPORT 2","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/1875.m3u8"},
@@ -49,7 +51,6 @@
 {"Name":"SportsTV","url":"http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8"},
 {"Name":"BS TV","url":"http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8"},
 {"Name":"BFM Sport","url":"http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8"},
-{"Name":"arriadia","url":"http://links.softiptv.com:2500/live/nadeem1/nadeem1/2051.m3u8"},
 {"Name":"DXTV","url":"http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E"},
 {"Name":"Luna Sport","url":"http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8"}
 ]}
