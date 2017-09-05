@@ -1,5 +1,7 @@
 {"streaming":[{"status":"yes"}],
 "channels":[
+{"Name":"Saudi Arabia Vs Japan","url":"http://www.hitbox.tv/api/player/hls/saudi-jaban.m3u8"},
+{"Name":"Congo Dr Vs Tunisia","url":"http://www.hitbox.tv/api/player/hls/saudi-jaban.m3u8"},
 {"Name":"AD SPORTS 1 HD","url":"https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8"},
 {"Name":"AD SPORTS 1 SD","url":"https://adtv.ercdn.net/adsport1/adsport1_480p.m3u8"},
 {"Name":"AD SPORTS 2 HD","url":"https://adtv.ercdn.net/adsport1/adsport2_720p.m3u8"},
