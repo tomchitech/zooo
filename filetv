@@ -31,7 +31,8 @@
 {"Name":"Sports TV","url":"http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8"},
 {"Name":"BS TV","url":"http://stream.yayindayiz.biz/Bursaspor/bursaspor/SAT_TOTAL.m3u8"},
 {"Name":"BFM Sport","url":"http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-2.m3u8"},
-{"Name":"hhhhhhhhhh","url":"https://manifest.googlevideo.com/api/manifest/hls_variant/maudio/1/key/yt6/ip/196.64.170.176/id/MFirDp2T_RU.0/go/1/ipbits/0/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/hfr/1/signature/E3C168BAD1C539B5E565277AE12FB7DB54712363.4C129B2DF8FC19325178C2D7AADD3C7AB6D84DAC/ei/4txIWqXtAoWrVvP3kKgF/ratebypass/yes/requiressl/yes/gcr/ma/itag/0/keepalive/yes/expire/1514746178/dover/8/source/yt_live_broadcast/playlist_type/DVR/file/index.m3u8"},
+{"Name":"test1","url":"http://188.165.206.211:8000/live/e4cb23cc6f/d1203v5/1379.ts"},
+{"Name":"test2","url":"https://manifest.googlevideo.com/api/manifest/hls_variant/maudio/1/key/yt6/ip/196.64.170.176/id/MFirDp2T_RU.0/go/1/ipbits/0/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/hfr/1/signature/E3C168BAD1C539B5E565277AE12FB7DB54712363.4C129B2DF8FC19325178C2D7AADD3C7AB6D84DAC/ei/4txIWqXtAoWrVvP3kKgF/ratebypass/yes/requiressl/yes/gcr/ma/itag/0/keepalive/yes/expire/1514746178/dover/8/source/yt_live_broadcast/playlist_type/DVR/file/index.m3u8"},
 {"Name":"DXTV","url":"http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E"},
 {"Name":"Luna Sport","url":"http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8"}
 ]}
